@@ -1,4 +1,4 @@
 a = 'Hello world'
-day = Monday
-date = 23/1/23
+b="did you receive the change"
 print(a)
+print(b)
